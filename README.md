@@ -1,2 +1,3 @@
 # Threat-model
-Threat model for an ATM system
+git add atm_threats
+git status
